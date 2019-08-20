@@ -15,7 +15,11 @@ Moreover, to build the sample, we need the following libraries:
 - cd build
 - cmake .. -G"Visual Studio 15 2017 Win64"; or cmake .. -G"Visual Studio 16 2019 Win64"
  
- Please refer to this website for details:
- https://mp.csdn.net/postedit/97315485
+show disparity by matlab:
+
+<img src="image/1.png" alt="Left Image" width="45%">
+
+show point cloud by meshlab:
+<img src="image/2.png" alt="Right Image" width="45%">
 
 
