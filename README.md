@@ -17,9 +17,9 @@ Moreover, to build the sample, we need the following libraries:
  
 show disparity by matlab:
 
-<img src="image/1.png" alt="Left Image" width="45%">
+<img src="./image/1.png" alt="disparity" width="45%">
 
 show point cloud by meshlab:
-<img src="image/2.png" alt="Right Image" width="45%">
+<img src="./image/2.png" alt=" point cloud" width="45%">
 
 
