@@ -78,7 +78,7 @@ namespace CommonProcessingUnit
         for (int y = 0; y < dispf.rows; ++y) {
             for (int x = 0; x < dispf.cols; ++x) {
                 cv::Vec3f &point = XYZ.at<cv::Vec3f>(y, x);
-                int dis = dispf.at<float_t>(y, x);
+                float dis = dispf.at<float_t>(y, x);
                 if (dis == 0) {
                     point[2] = NAN;
                     continue;
